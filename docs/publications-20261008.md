@@ -26,3 +26,5 @@ Keep this tag immutable. If a defect is found, fix it in a new commit and publis
 GitHub Release creation and live hosting verification are tracked separately. Planned external integrations are listed in the README and shown in the browser interface.
 
 2026-10-11: Desktop artwork/size update prepared for publication; see ../desktop-pet-20261011.json. No new app integrations claimed.
+
+Desktop art follow-up (2026-10-11): Slightly smaller Health Hummy, 45.684 logical pixels tall. Source frames and runtime handoff are recorded in desktop-pet-20261011.json. Prepared by OpenAI Codex (GPT-6), 2026-10-11.
