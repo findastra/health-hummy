@@ -35,3 +35,5 @@ Made by Astra. Interface prepared with Codex (GPT-6), 2026-10-08. The pet artwor
 
 ## Desktop pet update - 2026-10-11
 Light brown belly and ruby throat heart; original wing colors. Desktop artwork status: draft. Manifest: [desktop-pet-20261011.json](desktop-pet-20261011.json). The native companion renders this art; existing browser interface behavior is unchanged. Generated character artwork uses OpenAI image generation; source sheets and derived frames are included where applicable. Public credit: Astra. Integrated by OpenAI Codex (GPT-6).
+
+Desktop appearance draft updated 2026-10-11: see [desktop details](desktop-pet-20261011.json). This changes the desktop pet, not application features.

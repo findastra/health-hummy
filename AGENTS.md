@@ -27,3 +27,5 @@ Check the actual browser script syntax and meaningful user flows after behavior 
 Cage: https://github.com/findastra/astras-pet-apps. Repository topic: `pet-app`.
 
 Desktop artwork and size sync: OpenAI Codex (GPT-6), 2026-10-11. Read desktop-pet-20261011.json. No sparkles. Keep draft and approved design status explicit.
+
+Desktop appearance revision by OpenAI Codex (GPT-6), 2026-10-11. See desktop-pet-20261011.json; runtime behavior is in astras-pet-apps.

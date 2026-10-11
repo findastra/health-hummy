@@ -21,5 +21,6 @@
   "built_with": "browser interface prepared with Codex (GPT-6), 2026-10-08",
   "entry": "health-hummy-20261008.html",
   "runs_on": "Modern browser, directly from the local HTML file; no server or dependencies.",
-  "desktop_pet": "desktop-pet-20261011.json"
+  "desktop_pet": "desktop-pet-20261011.json",
+  "desktop_art_built_with": "OpenAI Codex (GPT-6), built-in imagegen and native renderer, 2026-10-11"
 }
