@@ -6,6 +6,14 @@
 
 A quiet place to notice sleep, energy and the shape of your day.
 
+## Pictures
+
+![Health Hummy's Daily Check-in desk: check-in counters, your desk and the New check-in form (feel, energy, sleep, water)](docs/images/health-hummy-program-page-20261017.png)
+
+Health Hummy's [program page](https://findastra.github.io/astras-pet-os/apps/health-hummy-20261008.html) as published in Astra's PetOS.
+
+Screenshots taken 2026-10-17 with GitHub Goldfish's [project-image-generator](https://github.com/findastra/github-goldfish#project-image-generator); added with Claude Opus 5.5 (`claude-opus-5-5`), 2026-10-17.
+
 ## How to run
 
 Open [health-hummy-20261008.html](health-hummy-20261008.html) directly in a modern browser. No install, server, account, or network connection is needed.
