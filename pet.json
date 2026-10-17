@@ -2,7 +2,7 @@
   "pet": "Health Hummy",
   "kind": "pet-app",
   "owner": "Astra",
-  "job": "Personal health tracker. Your data stays on your PC and is never committed.",
+  "job": "Personal health tracker: weight lifting by body group and sets, cardio, and pole plans. Your data stays on your PC and is never committed.",
   "sprite": "sprite-20261008.json",
   "preview": "health-hummy-20261008.html",
   "status": "hatching",
@@ -15,12 +15,17 @@
   "cage": {
     "topic": "pet-app",
     "home": "README.md",
-    "repository": "https://github.com/findastra/astras-pet-apps"
+    "repository": "https://github.com/findastra/astras-pet-os"
   },
   "updated": "2026-10-09",
   "built_with": "browser interface prepared with Codex (GPT-6), 2026-10-08; OpenAI Codex (GPT-6), 2026-10-11",
   "entry": "health-hummy-20261008.html",
   "runs_on": "Modern browser, directly from the local HTML file; no server or dependencies.",
   "desktop_pet": "desktop-pet-20261011.json",
-  "desktop_art_built_with": "OpenAI Codex (GPT-6), built-in imagegen and native renderer, 2026-10-11"
+  "desktop_art_built_with": "OpenAI Codex (GPT-6), built-in imagegen and native renderer, 2026-10-11",
+  "audit": {
+    "cadence": "weekly",
+    "subject": "my own files (never your check-ins)",
+    "needs": "a check-in only you can make"
+  }
 }
